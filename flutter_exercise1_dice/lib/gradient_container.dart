@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_exercise1_dice/dice_roller.dart';
-import 'package:flutter_exercise1_dice/styled_text.dart';
-import 'dart:math';
 
 const beginAlignment = Alignment.topLeft;
 const endAlignment = Alignment.bottomRight;
